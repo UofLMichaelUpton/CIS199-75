@@ -1,0 +1,4 @@
+/Users/michaelupton/Projects/Chapter1/Chapter1/bin/Debug/Chapter1.exe
+/Users/michaelupton/Projects/Chapter1/Chapter1/bin/Debug/Chapter1.pdb
+/Users/michaelupton/Projects/Chapter1/Chapter1/obj/anycpu/Debug/Chapter1.exe
+/Users/michaelupton/Projects/Chapter1/Chapter1/obj/anycpu/Debug/Chapter1.pdb
