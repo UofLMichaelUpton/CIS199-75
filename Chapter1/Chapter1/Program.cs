@@ -99,7 +99,7 @@ namespace MainSolution
             WriteLine("7: BurmaShave");
 
             //ask the user to make a selection
-            WriteLine("Make a selection on which program to view:");
+            Write("Make a selection on which program to view:");
 
             //Read the user's selection as userChoice
             userChoice = Convert.ToInt32(ReadLine());
