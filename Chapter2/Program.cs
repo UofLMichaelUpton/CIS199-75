@@ -3,6 +3,16 @@ using static System.Console;
 
 namespace Chapter2
 {
+    enum Month
+    {
+        JANUARY = 1, FEBRUARY, MARCH, APRIL, MAY, JUNE, JULY, AUGUST, SEPTEMBER, OCTOBER, NOVEMBER, DECEMBER
+    }
+
+    enum Planets
+    {
+        MERCURY = 1, VENUS, EARTH, MARS, JUPITER, SATURN, URANUS, NEPTUNE
+    }
+
     class MainClass
     {
         public static void InchesToCentimetersInteractive()
@@ -80,6 +90,158 @@ namespace Chapter2
             WriteLine("You worked {0} hours and {1} minutes.", minutes / MINUTES_TO_HOUR, minutes % MINUTES_TO_HOUR);
         }
 
+        public static void EggsInteractive()
+        {
+            const byte DOZEN = 12;
+            int hen1,  //variable for eggs produced by Hen 1
+                hen2,  //variable for eggs produced by Hen 2
+                hen3,  //variable for eggs produced by Hen 3
+                hen4,  //variable for eggs produced by Hen 4
+                sum;  //variable to sum all of the eggs
+
+            //prompt the user for the number of eggs laid by each hen
+            Write("Enter the number of eggs laid by Hen 1 for the month: ");
+            hen1 = Convert.ToInt32(ReadLine());
+            Write("Enter the number of eggs laid by Hen 2 for the month: ");
+            hen2 = Convert.ToInt32(ReadLine());
+            Write("Enter the number of eggs laid by Hen 3 for the month: ");
+            hen3 = Convert.ToInt32(ReadLine());
+            Write("Enter the number of eggs laid by Hen 4 for the month: ");
+            hen4 = Convert.ToInt32(ReadLine());
+
+            //sum all of the eggs
+            sum = hen1 + hen2 + hen3 + hen4;
+
+            //display the number of eggs in dozens to the user
+            WriteLine("You have {0} dozen and {1} eggs.", sum / DOZEN, sum % DOZEN);
+        }
+
+        public static void MakeChange()
+        {
+            int amount,  //variable for amount entered by user
+                newAmount,  //variable for a new amount after bills are calculated
+                twenties,  //variable for the number of twenties
+                tens,  //variable for the number of tens
+                fives,  //variable for the number of fives
+                ones;  //variable for the number of ones
+
+            //prompt the user for an amount
+            Write("Enter a whole dollar amount to make change for: $");
+            amount = Convert.ToInt32(ReadLine());
+
+            //calculate the change
+            twenties = amount / 20;
+            newAmount = amount % 20;
+            tens = newAmount / 10;
+            newAmount %= 10;
+            fives = newAmount / 5;
+            newAmount %= 5;
+            ones = newAmount / 1;
+
+            //display the numbers of bills to the user
+            WriteLine("In ${0} there are {1} $20 bills, {2} $10 bills, {3} $5 bills and {4} $1 bills.", amount,
+                      twenties, tens, fives, ones);
+        }
+
+        public static void TestsInteractive()
+        {
+            decimal testOne,  //variable for first test
+                    testTwo,  //variable for second test
+                    testThree,  //variable for third test
+                    testFour,  //variable for fourth test
+                    testFive,  //variable for fifth test
+                    testSix,  //variable for sixth test
+                    testSeven,  //variable for seventh test
+                    testEight,  //variable for eigth test
+                    testSum,  //variable for test sum
+                    testAverage;  //variable for the average
+
+            //prompt the user to enter 8 test scores
+            Write("Enter in the first test score: ");
+            testOne = Convert.ToDecimal(ReadLine());
+            Write("Enter in the second test score: ");
+            testTwo = Convert.ToDecimal(ReadLine());
+            Write("Enter in the third test score: ");
+            testThree = Convert.ToDecimal(ReadLine());
+            Write("Enter in the fourth test score: ");
+            testFour = Convert.ToDecimal(ReadLine());
+            Write("Enter in the fifth test score: ");
+            testFive = Convert.ToDecimal(ReadLine());
+            Write("Enter in the sixth test score: ");
+            testSix = Convert.ToDecimal(ReadLine());
+            Write("Enter in the seventh test score: ");
+            testSeven = Convert.ToDecimal(ReadLine());
+            Write("Enter in the eighth test score: ");
+            testEight = Convert.ToDecimal(ReadLine());
+
+            //calculate the test average
+            testSum = testOne + testTwo + testThree + testFour + testFive + testSix + testSeven + testEight;
+            testAverage = (testSum / 8) / 100;
+
+            //display the average to the user
+            WriteLine("The average test score is {0}", testAverage.ToString("P2"));
+
+        }
+
+        public static void FahrenheitToCelcius()
+        {
+            const double MULTIPLIER = 5.0 / 9.0;  //constant for the multiplier
+            double fahrenheit,  //user input for fahrenheit to be converted
+                   celcius;  //variable for calculated celcius temperature
+
+            //prompt the user for the fahrenheit value to be converted
+            Write("Enter a fahrenheit temperature value: ");
+            fahrenheit = Convert.ToDouble(ReadLine());
+
+            //convert the fahrenheit temperature to celcius
+            celcius = (fahrenheit - 32) * MULTIPLIER;
+
+            //display the conversion to the user
+            WriteLine("{0} degrees fahrenheit is {1} degrees celcius.", fahrenheit.ToString("f1"), celcius.ToString("f1"));
+        }
+
+        public static void MonthNames()
+        {
+            byte monthSelection;  //variable for the user's month selection
+
+            //prompt the user for a month number
+            Write("Enter a number between 1 and 12 for a month of the year: ");
+            monthSelection = Convert.ToByte(ReadLine());
+
+            //display the month to the user
+            WriteLine("The month you entered is {0}.", (Month)monthSelection);
+        }
+
+        public static void Planets()
+        {
+            byte planetPosition;  //variable to get the planet number from the user
+
+            //prompt the user for a planet number
+            Write("Enter a planet number between 1 and 8: ");
+            planetPosition = Convert.ToByte(ReadLine());
+
+            //display the planet name to the user
+            WriteLine("The planet that you've chosen is {0}", (Planets)planetPosition);
+        }
+
+        public static void PigLatin()
+        {
+            string userString,  //string that user will enter
+                   string1,  //substring 1
+                   string2;  //substring 2
+
+            //prompt the user to enter a word
+            Write("Enter a word to be translated to Pig Latin: ");
+            userString = ReadLine();
+
+            //convert the word into two substrings
+            string1 = userString.Substring(0, 1);
+            string2 = userString.Substring(1, userString.Length - 1);
+
+            //display the strings to the user in a new order
+            WriteLine(string2 + string1 + "ay");
+        }
+
         public static void Main(string[] args)
         {
             byte userChoice;  //variable for user menu selection
@@ -121,6 +283,34 @@ namespace Chapter2
 
                 case 4:
                     HoursAndMinutes();
+                    break;
+
+                case 5:
+                    EggsInteractive();
+                    break;
+
+                case 6:
+                    MakeChange();
+                    break;
+
+                case 7:
+                    TestsInteractive();
+                    break;
+
+                case 8:
+                    FahrenheitToCelcius();
+                    break;
+
+                case 9:
+                    MonthNames();
+                    break;
+
+                case 10:
+                    Planets();
+                    break;
+
+                case 11:
+                    PigLatin();
                     break;
             }
         }
