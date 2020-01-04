@@ -1,3 +1,3 @@
 # CIS199-75
-Exercises from Chapter 2 ONLY
+Exercises from Chapter 3 ONLY
 DO NOT MERGE!!!
