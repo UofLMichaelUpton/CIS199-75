@@ -1,0 +1,9 @@
+C:\Users\micha\Source\Repos\ProjectedRaisesGUI\obj\Debug\ProjectedRaisesGUI.csprojAssemblyReference.cache
+C:\Users\micha\Source\Repos\ProjectedRaisesGUI\obj\Debug\ProjectedRaisesGUI.projectedRaiseForm.resources
+C:\Users\micha\Source\Repos\ProjectedRaisesGUI\obj\Debug\ProjectedRaisesGUI.Properties.Resources.resources
+C:\Users\micha\Source\Repos\ProjectedRaisesGUI\obj\Debug\ProjectedRaisesGUI.csproj.GenerateResource.cache
+C:\Users\micha\Source\Repos\ProjectedRaisesGUI\bin\Debug\ProjectedRaisesGUI.exe.config
+C:\Users\micha\Source\Repos\ProjectedRaisesGUI\bin\Debug\ProjectedRaisesGUI.exe
+C:\Users\micha\Source\Repos\ProjectedRaisesGUI\bin\Debug\ProjectedRaisesGUI.pdb
+C:\Users\micha\Source\Repos\ProjectedRaisesGUI\obj\Debug\ProjectedRaisesGUI.exe
+C:\Users\micha\Source\Repos\ProjectedRaisesGUI\obj\Debug\ProjectedRaisesGUI.pdb
