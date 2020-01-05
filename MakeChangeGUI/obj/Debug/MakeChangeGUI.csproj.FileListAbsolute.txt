@@ -1,0 +1,9 @@
+C:\Users\micha\Source\Repos\MakeChangeGUI\bin\Debug\MakeChangeGUI.exe.config
+C:\Users\micha\Source\Repos\MakeChangeGUI\bin\Debug\MakeChangeGUI.exe
+C:\Users\micha\Source\Repos\MakeChangeGUI\bin\Debug\MakeChangeGUI.pdb
+C:\Users\micha\Source\Repos\MakeChangeGUI\obj\Debug\MakeChangeGUI.csprojAssemblyReference.cache
+C:\Users\micha\Source\Repos\MakeChangeGUI\obj\Debug\MakeChangeGUI.makeChangeForm.resources
+C:\Users\micha\Source\Repos\MakeChangeGUI\obj\Debug\MakeChangeGUI.Properties.Resources.resources
+C:\Users\micha\Source\Repos\MakeChangeGUI\obj\Debug\MakeChangeGUI.csproj.GenerateResource.cache
+C:\Users\micha\Source\Repos\MakeChangeGUI\obj\Debug\MakeChangeGUI.exe
+C:\Users\micha\Source\Repos\MakeChangeGUI\obj\Debug\MakeChangeGUI.pdb
