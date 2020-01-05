@@ -1,0 +1,9 @@
+C:\Users\micha\Source\Repos\InchesToCentimetersGUI\obj\Debug\InchesToCentimetersGUI.csprojAssemblyReference.cache
+C:\Users\micha\Source\Repos\InchesToCentimetersGUI\obj\Debug\InchesToCentimetersGUI.InchesToCentimetersForm.resources
+C:\Users\micha\Source\Repos\InchesToCentimetersGUI\obj\Debug\InchesToCentimetersGUI.Properties.Resources.resources
+C:\Users\micha\Source\Repos\InchesToCentimetersGUI\obj\Debug\InchesToCentimetersGUI.csproj.GenerateResource.cache
+C:\Users\micha\Source\Repos\InchesToCentimetersGUI\bin\Debug\InchesToCentimetersGUI.exe.config
+C:\Users\micha\Source\Repos\InchesToCentimetersGUI\bin\Debug\InchesToCentimetersGUI.exe
+C:\Users\micha\Source\Repos\InchesToCentimetersGUI\bin\Debug\InchesToCentimetersGUI.pdb
+C:\Users\micha\Source\Repos\InchesToCentimetersGUI\obj\Debug\InchesToCentimetersGUI.exe
+C:\Users\micha\Source\Repos\InchesToCentimetersGUI\obj\Debug\InchesToCentimetersGUI.pdb
