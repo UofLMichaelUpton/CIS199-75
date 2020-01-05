@@ -1,0 +1,9 @@
+C:\Users\micha\Source\Repos\MoveEstimatorGUI\bin\Debug\MoveEstimatorGUI.exe.config
+C:\Users\micha\Source\Repos\MoveEstimatorGUI\bin\Debug\MoveEstimatorGUI.exe
+C:\Users\micha\Source\Repos\MoveEstimatorGUI\bin\Debug\MoveEstimatorGUI.pdb
+C:\Users\micha\Source\Repos\MoveEstimatorGUI\obj\Debug\MoveEstimatorGUI.csprojAssemblyReference.cache
+C:\Users\micha\Source\Repos\MoveEstimatorGUI\obj\Debug\MoveEstimatorGUI.moveEstimatorForm.resources
+C:\Users\micha\Source\Repos\MoveEstimatorGUI\obj\Debug\MoveEstimatorGUI.Properties.Resources.resources
+C:\Users\micha\Source\Repos\MoveEstimatorGUI\obj\Debug\MoveEstimatorGUI.csproj.GenerateResource.cache
+C:\Users\micha\Source\Repos\MoveEstimatorGUI\obj\Debug\MoveEstimatorGUI.exe
+C:\Users\micha\Source\Repos\MoveEstimatorGUI\obj\Debug\MoveEstimatorGUI.pdb
