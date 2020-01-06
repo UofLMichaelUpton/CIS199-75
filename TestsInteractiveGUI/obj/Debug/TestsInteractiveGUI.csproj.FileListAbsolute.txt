@@ -1,0 +1,9 @@
+C:\Users\micha\Source\Repos\TestsInteractiveGUI\bin\Debug\TestsInteractiveGUI.exe.config
+C:\Users\micha\Source\Repos\TestsInteractiveGUI\bin\Debug\TestsInteractiveGUI.exe
+C:\Users\micha\Source\Repos\TestsInteractiveGUI\bin\Debug\TestsInteractiveGUI.pdb
+C:\Users\micha\Source\Repos\TestsInteractiveGUI\obj\Debug\TestsInteractiveGUI.csprojAssemblyReference.cache
+C:\Users\micha\Source\Repos\TestsInteractiveGUI\obj\Debug\TestsInteractiveGUI.testAverageForm.resources
+C:\Users\micha\Source\Repos\TestsInteractiveGUI\obj\Debug\TestsInteractiveGUI.Properties.Resources.resources
+C:\Users\micha\Source\Repos\TestsInteractiveGUI\obj\Debug\TestsInteractiveGUI.csproj.GenerateResource.cache
+C:\Users\micha\Source\Repos\TestsInteractiveGUI\obj\Debug\TestsInteractiveGUI.exe
+C:\Users\micha\Source\Repos\TestsInteractiveGUI\obj\Debug\TestsInteractiveGUI.pdb
