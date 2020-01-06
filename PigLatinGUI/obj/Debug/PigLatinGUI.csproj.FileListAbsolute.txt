@@ -1,0 +1,9 @@
+C:\Users\micha\Source\Repos\PigLatinGUI\bin\Debug\PigLatinGUI.exe.config
+C:\Users\micha\Source\Repos\PigLatinGUI\bin\Debug\PigLatinGUI.exe
+C:\Users\micha\Source\Repos\PigLatinGUI\bin\Debug\PigLatinGUI.pdb
+C:\Users\micha\Source\Repos\PigLatinGUI\obj\Debug\PigLatinGUI.csprojAssemblyReference.cache
+C:\Users\micha\Source\Repos\PigLatinGUI\obj\Debug\PigLatinGUI.pigLatinForm.resources
+C:\Users\micha\Source\Repos\PigLatinGUI\obj\Debug\PigLatinGUI.Properties.Resources.resources
+C:\Users\micha\Source\Repos\PigLatinGUI\obj\Debug\PigLatinGUI.csproj.GenerateResource.cache
+C:\Users\micha\Source\Repos\PigLatinGUI\obj\Debug\PigLatinGUI.exe
+C:\Users\micha\Source\Repos\PigLatinGUI\obj\Debug\PigLatinGUI.pdb
