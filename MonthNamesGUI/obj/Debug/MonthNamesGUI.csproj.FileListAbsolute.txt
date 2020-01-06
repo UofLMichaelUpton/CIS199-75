@@ -1,0 +1,9 @@
+C:\Users\micha\Source\Repos\MonthNamesGUI\bin\Debug\MonthNamesGUI.exe.config
+C:\Users\micha\Source\Repos\MonthNamesGUI\bin\Debug\MonthNamesGUI.exe
+C:\Users\micha\Source\Repos\MonthNamesGUI\bin\Debug\MonthNamesGUI.pdb
+C:\Users\micha\Source\Repos\MonthNamesGUI\obj\Debug\MonthNamesGUI.csprojAssemblyReference.cache
+C:\Users\micha\Source\Repos\MonthNamesGUI\obj\Debug\MonthNamesGUI.monthNameForm.resources
+C:\Users\micha\Source\Repos\MonthNamesGUI\obj\Debug\MonthNamesGUI.Properties.Resources.resources
+C:\Users\micha\Source\Repos\MonthNamesGUI\obj\Debug\MonthNamesGUI.csproj.GenerateResource.cache
+C:\Users\micha\Source\Repos\MonthNamesGUI\obj\Debug\MonthNamesGUI.exe
+C:\Users\micha\Source\Repos\MonthNamesGUI\obj\Debug\MonthNamesGUI.pdb
