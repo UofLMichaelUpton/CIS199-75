@@ -1,0 +1,11 @@
+/Users/michaelupton/Projects/Chapter3/Chapter3/bin/Debug/netcoreapp3.0/Chapter3
+/Users/michaelupton/Projects/Chapter3/Chapter3/bin/Debug/netcoreapp3.0/Chapter3.deps.json
+/Users/michaelupton/Projects/Chapter3/Chapter3/bin/Debug/netcoreapp3.0/Chapter3.runtimeconfig.json
+/Users/michaelupton/Projects/Chapter3/Chapter3/bin/Debug/netcoreapp3.0/Chapter3.runtimeconfig.dev.json
+/Users/michaelupton/Projects/Chapter3/Chapter3/bin/Debug/netcoreapp3.0/Chapter3.dll
+/Users/michaelupton/Projects/Chapter3/Chapter3/bin/Debug/netcoreapp3.0/Chapter3.pdb
+/Users/michaelupton/Projects/Chapter3/Chapter3/obj/Debug/netcoreapp3.0/Chapter3.csprojAssemblyReference.cache
+/Users/michaelupton/Projects/Chapter3/Chapter3/obj/Debug/netcoreapp3.0/Chapter3.AssemblyInfoInputs.cache
+/Users/michaelupton/Projects/Chapter3/Chapter3/obj/Debug/netcoreapp3.0/Chapter3.AssemblyInfo.cs
+/Users/michaelupton/Projects/Chapter3/Chapter3/obj/Debug/netcoreapp3.0/Chapter3.dll
+/Users/michaelupton/Projects/Chapter3/Chapter3/obj/Debug/netcoreapp3.0/Chapter3.pdb
