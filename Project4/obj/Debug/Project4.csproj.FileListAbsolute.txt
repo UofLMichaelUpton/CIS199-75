@@ -1,0 +1,5 @@
+/Users/michaelupton/Projects/Project4/bin/Debug/Project4.exe
+/Users/michaelupton/Projects/Project4/bin/Debug/Project4.pdb
+/Users/michaelupton/Projects/Project4/obj/Debug/Project4.csprojAssemblyReference.cache
+/Users/michaelupton/Projects/Project4/obj/Debug/Project4.exe
+/Users/michaelupton/Projects/Project4/obj/Debug/Project4.pdb
